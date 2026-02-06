@@ -18,6 +18,7 @@ This teamwork made it possible to bring the project to life effectively and effi
 ### Team Members
 - [Muvva Adityavardhan](https://github.com/Muvva-Adityavardhan)
 - [Kaushal Kulkarni](https://github.com/kaushal-345)
+- [Konda Govardhan](https://github.com/kgovardhan15)
 
 
 
